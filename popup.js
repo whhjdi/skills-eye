@@ -8,6 +8,7 @@ const STATUS_LABELS = {
   system: '跟随系统偏好',
   light: '亮色模式已启用',
   dark: '暗色模式已启用',
+  claude: 'Claude 主题已启用',
 };
 
 // ─── Init: read stored preference ──────────────────────────────────────────────
